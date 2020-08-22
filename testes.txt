@@ -1,0 +1,5 @@
+Testes de segurança para garantir a integridade dos dados dos usuários e funcionários;
+Testes funcionais para garatia das funcionalidades do aplicativo (tela de cadastro, pagamento, tarifação, solicitação de corrida) 
+	Testes automatizados para diminuição de custo e aumento da velocidades
+Testes de performance e stress para garantir a multipla conexão de usuários na plataforma sem prejudicar a perfomance;
+Testes de usabilidade e acesibilidade para garantir a experiência do usuário e a aceitação do app a todos os públicos incluindo PCDS

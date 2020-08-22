@@ -1,0 +1,8 @@
+Linguagem backend: Java
+	Aceitação de sistemas operacionais diversos pata atingir publico maior
+Linguagem frontend: JavaScript
+	Vasto conhecimento de mercado, profissionais experientes e qualificados
+Banco de dados: Postgree
+	Baixo custo, plataforma gratuita
+API: Rest Ful com Spring Boot e Java
+

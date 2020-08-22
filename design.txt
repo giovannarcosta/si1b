@@ -1,0 +1,15 @@
+Solução Mobile
+Interface para cadastro de usuário
+	Coleta dados do usuário (nome, cpf, rg, dados da conta)
+Interface para cadastro de funcionários
+	Coleta dados do usuário (nome, cpf, rg, dados da conta, dados do carro)
+Interface para pagamento
+	Captura de dados de pagamento e envio para o orgão responsável para processamento
+Historico de viagens
+	Acompanhamento das viagens feitas
+Tarifar percursos
+	Calcular tarifa do trajeto
+Recurso de localização
+	Conectar um usuário com um funcionário/carro mais próximo
+Interface de suporte
+	Conectar usuários aos times de suporte (dúvidas, reclamações)
